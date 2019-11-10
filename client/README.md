@@ -1,3 +1,12 @@
+# React Bootstrap
+https://react-bootstrap.netlify.com/components/cards/#cards
+
+# React doc
+https://reactjs.org/tutorial/tutorial.html
+
+# React Libs
+https://reactjsexample.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
